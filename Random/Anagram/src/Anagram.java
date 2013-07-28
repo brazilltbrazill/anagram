@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+//new version
 public class Anagram {
 	static class Node{
 		static Node root;
